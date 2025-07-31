@@ -1,6 +1,7 @@
 
-# Exemplo (Apenas demonstração para os alunos)
+# Exemplo 
 
+(Apenas demonstração para os alunos)
 Projeto exemplo de site desenvolvido para demonstrar a estrutura, tecnologias e boas práticas de desenvolvimento web.
 
 ## Sobre
